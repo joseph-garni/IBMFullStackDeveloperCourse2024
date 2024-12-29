@@ -1,0 +1,7 @@
+#adding child branch code for first branch created 
+
+child = ['a', 'b', 'c', 'd']
+
+print("Child branch file has been committed, so I am going to print the first 4 letters of the alphabet...")
+print(child)
+
